@@ -135,9 +135,7 @@ I enjoy solving business problems through data, uncovering hidden trends, and cr
 - Advanced SQL
 - DAX
 - Power BI Service
-- Python for Data Analytics
-- Microsoft Fabric
-- Data Warehousing
+
 
 ---
 
